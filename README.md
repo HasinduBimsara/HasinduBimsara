@@ -51,11 +51,10 @@
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="https://t.me/bimsara222"><img src="https://img.shields.io/badge/-HASINDU BIMSARA-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="www.linkedin.com/in/hasindubimsara"><img src="https://img.shields.io/badge/-H%20Hasindu-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:bimsarapremarathna123@gmail.com"><img src="https://img.shields.io/badge/-bimsarapremarathna123@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/Mr.HasinduBimsara"><img src="https://img.shields.io/badge/-Mr.Hasindu-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://instagram.com/hasindu_bimsara_"><img src="https://img.shields.io/badge/-Hasindu-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://x.com/hasindubimsaraX"><img src="https://img.shields.io/badge/-Mr_Hasindu-1DA1F2?style=for-the-badge&logo=X&logoColor=white"/></a>
-
+<a href="https://www.linkedin.com/in/hasindubimsara/"><img src="https://github.com/Scar1109/skill-icons/blob/20aae884e9e4caf49f2dcee89302ebe86bf996e2/icons/LinkedIn.svg"" height="30" width="40" /></a>
+<a href="https://t.me/bimsara222"><img src="https://github.com/Scar1109/skill-icons/blob/20aae884e9e4caf49f2dcee89302ebe86bf996e2/icons/LinkedIn.svg"" height="30" width="40" /></a>
+<a href="mailto:bimsarapremarathna123@gmail.com"><img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png"" height="30" width="35" /></a>
+<a href="https://www.facebook.com/Mr.HasinduBimsara"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"" height="30" width="40"/></a>
+<a href="https://instagram.com/hasindu_bimsara_"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"" height="30" width="40" /></a>
+<a href="https://x.com/hasindubimsaraX"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"" height="30" width="40" /></a>
 </p>
