@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/tharushatheekshana/tharushatheekshana/blob/0a6374fdf3f3706edcd3939f2713187091fe8760/tharushatheekshana/header.png"></p>
+<p align="center"><img src="https://github.com/HasinduBimsara/HasinduBimsara/blob/e347104ca449772c602da8382d21e6fcf8cde8d7/README_ITEMS/Header.png"></p>
 <h1 align="center">Hi <img src="https://github.com/HasinduBimsara/HasinduBimsara/blob/main/README_ITEMS/React.gif" width="30px">, I am Hasindu Bimsara </h1>
 <p align="center" width="150px"> I am studying for a BSc (Hons) in Computing and Information Systems at Sabaragamuwa University of Sri Lanka. </p>
 
