@@ -43,10 +43,8 @@
 <table>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/HasinduBimsara/HasinduBimsara">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HasinduBimsara&theme=dark" alt="HasinduBimsara's GitHub Streak Stats"/>
-</a>
-  </td>
+<img src="https://streak-stats.demolab.com?user=HasinduBimsara&theme=dark&hide_border=true"/>
+</td>
 <td width="50%" align="center">
   <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HasinduBimsara&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
