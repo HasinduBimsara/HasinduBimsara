@@ -40,7 +40,9 @@
 
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width='30'> <b>Github Stats</b>
-
+<a href="https://github.com/HasinduBimsara/HasinduBimsara">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HasinduBimsara&theme=dark" alt="HasinduBimsara's GitHub Streak Stats"/>
+</a>
 <td width="50%" align="center">
   <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HasinduBimsara&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
