@@ -42,9 +42,10 @@
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width='30'> <b>Github Stats</b>
 <table>
 <tr>
-<td width="50%" align="center">
-<img src="https://streak-stats.demolab.com?user=HasinduBimsara&theme=dark&hide_border=true"/>
-</td>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HasinduBimsara&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=HasinduBimsara&theme=tokyonight&hide_border=true"/>
+</p>
 <td width="50%" align="center">
   <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HasinduBimsara&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
